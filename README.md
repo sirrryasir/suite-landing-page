@@ -40,5 +40,5 @@ This is a solution to the **Suite landing page** challenge from [Frontend Mentor
 ## 🙋‍♂️ Author
 
 * Name: **Yasir Hassan** (**Yazy**)
-* Frontend Mentor: [@YazyDev](https://www.frontendmentor.io/profile/ziryazy)
-* Twitter: [@Yazy\_Dev](https://twitter.com/sirrryasir)
+* Frontend Mentor: [@sirrryasir](https://www.frontendmentor.io/profile/ziryazy)
+* Twitter: [@sirrryasir](https://twitter.com/sirrryasir)
