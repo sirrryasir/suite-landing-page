@@ -9,7 +9,6 @@ This is a solution to the **Suite landing page** challenge from [Frontend Mentor
 ## 🚀 Live Demo
 
 * Live site: [https://sirrryasir.github.io/suite-landing-page](https://sirrryasir.github.io/suite-landing-page)
-* Solution on Frontend Mentor: [https://www.frontendmentor.io/profile/YazyDev](https://www.frontendmentor.io/profile/YazyDev)
 
 ## 🧠 What I Learned
 
